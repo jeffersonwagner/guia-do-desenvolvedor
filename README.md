@@ -36,6 +36,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Super Apps Híbridas com Ionic](http://mabrasil.github.io/talks/2015/cocoaheads/) por @mabrasil
 * [Mini Curso Ionic](http://www.slideshare.net/loianeg/mini-curso-ionic-framework) por @loiane
 * [Offline Apps com Ionic e PouchDB](http://www.slideshare.net/alvarowolfx/offline-apps-using-ionic-framework-and-pouchdb) por @alvinhuuu
+* [Entendendo Ionic Framework](http://arthuralves.github.io/entendendoionic) por @arthuralv3s
 
 ## Artigos
 
@@ -46,6 +47,8 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Apps Híbridas com Cordova e Ionic #1](http://luisvasconcellos.com/2015/04/06/apps-hibridas-com-cordova-e-ionic.html) por @vasconcelloslf
 * [O erro dos Apps criados com Ionic](https://medium.com/@LithiumBr/o-erro-dos-apps-criados-com-ionic-6797c1216d15?source=tw-992152d591ea-1436294034569) por @raphaelpor
 * [4 Dicas para trabalhar com o Ionic Framework](http://frontinbrazil.com.br/4-dicas-ionic-framework/) por @JLCarv
+* [Dicas para trabalhar com o Ionic – PouchDB](http://frontinbrazil.com.br/pouchdb/) por @JLCarv
+* [Dicas para trabalhar com o Ionic – Persistence.js Migrations](http://frontinbrazil.com.br/persistencejs-migrations/) por @JLCarv
 
 ## Vídeos
 * [Ionic FrameWork (Login com Redes Sociais e FireBase) PT-BR](https://www.youtube.com/playlist?list=PLZM1UQ94Dm7O7YPc8SuZsfEFvxlLUroGC) por Pedro Henrique
@@ -73,6 +76,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 * [Ionic Creator](https://creator.ionic.io/)
 * [Ionic Playground](http://play.ionic.io/)
+* [Ionic Lab](http://lab.ionic.io/) ([mais informações](http://blog.ionic.io/announcing-ionic-lab-mix-it-up-with-our-new-gui-tool/))
 * [Ionic View](http://view.ionic.io/)
 * [Ionic Push](https://apps.ionic.io/landing/push)
 * [Ionic Deploy](https://apps.ionic.io/signup) ([mais informações](http://blog.ionic.io/announcing-ionic-deploy-alpha-update-your-app-without-waiting/))
@@ -80,7 +84,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 
 ## Outros Serviços
 * [Ionic Jobs](http://jobs.ionic.io/)
-* [Ionic Market](http://market.ionic.io/) (em breve)
+* [Ionic Market](http://market.ionic.io/)
 
 ## Open Source
 
@@ -109,6 +113,7 @@ O Ionic também possui integração com o [Cordova](https://cordova.apache.org/)
 * [Writing for IELTS and TOEFL](http://writingskills.leonardofaria.net) por @leozera
 * [AgendaKids](https://play.google.com/store/apps/details?id=com.agendakidsdigital.app) por @vitormalencar
 * [Clicou Partiu](https://play.google.com/store/apps/details?id=br.com.clicoupartiu) por @isaquediasm & @cjpatoilo
+* [Campeão Supermercados] (https://itunes.apple.com/us/app/campeao-+-voce!/id1018798047?mt=8) por @douglaszaltron & @FernandoFHS
 
 ## Comunidade Ionic Brazil
 ![Ionic Brazil](resources/logos/_brazil/ionic-brazil-icon-small.png)
